@@ -1,0 +1,17 @@
+{
+  "name": "project-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/google.maps": "^3.54.10",
+    "@types/jquery": "^3.5.29",
+    "@types/tailwindcss": "^3.1.0",
+    "daisyui": "^4.4.19"
+  }
+}

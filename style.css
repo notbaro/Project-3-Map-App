@@ -1,0 +1,25 @@
+#map {
+  height: 100%;
+  width: 50%;
+}
+
+#questionaire {
+  padding-left: 2vh;
+}
+
+.flex {
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+}
+
+
+/* 
+ * Optional: Makes the sample page fill the window. 
+ */
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
